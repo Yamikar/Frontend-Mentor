@@ -21,5 +21,4 @@
 
 ## 📸 Preview
 
-_(Add screenshot using:)_  
-`![Preview](./screenshot.jpg)`
+![Project photo](design/desktop-design.jpg)
